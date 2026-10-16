@@ -1,0 +1,1069 @@
+addr	size	type	demangled
+0x9b848	24	FUNC	Config::HasSection(char const*)
+0xa85dc	156	FUNC	__cxa_guard_abort
+0x9109c	236	FUNC	HookOf_FrRenderScene(bool)
+0x1711e8	8	OBJECT	TrViewport
+0xa77ec	108	FUNC	std::__ndk1::future<void>::future(std::__ndk1::__assoc_sub_state*)
+0xa8790	20	FUNC	std::get_new_handler()
+0xcf978	16	OBJECT	typeinfo for decltype(nullptr)
+0x4289e	4	OBJECT	typeinfo name for signed char const*
+0xd92d8	8	OBJECT	gl::glReadBuffer
+0xd9380	8	OBJECT	gl::glTexSubImage2D
+0xa71b0	140	FUNC	std::__ndk1::future_error::future_error(std::__ndk1::error_code)
+0x4287a	4	OBJECT	typeinfo name for bool const*
+0x77d24	28	FUNC	wind::Tags()
+0x96708	12	FUNC	boot::G(char const*)
+0xcf4b0	40	OBJECT	typeinfo for std::__ndk1::__shared_weak_count
+0x9f348	176	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find_first_not_of(wchar_t const*, unsigned long, unsigned long) const
+0xaa988	16	FUNC	std::bad_cast::what() const
+0xd0328	56	OBJECT	vtable for __cxxabiv1::__pointer_type_info
+0x4288c	4	OBJECT	typeinfo name for char const*
+0xd93f8	8	OBJECT	gl::glGetAttachedShaders
+0x7e1ac	112	FUNC	lights::Camera(float*, float*, float*)
+0xa6080	68	FUNC	std::__ndk1::error_category::equivalent(int, std::__ndk1::error_condition const&) const
+0xa8cec	44	FUNC	std::length_error::~length_error()
+0x42916	4	OBJECT	typeinfo name for double const*
+0x57fe4	44	FUNC	OnModUnload
+0x9a51c	480	FUNC	Config::Bind(char const*, int, char const*)
+0xd92e0	8	OBJECT	gl::glGetFramebufferAttachmentParameteriv
+0xa7244	44	FUNC	std::__ndk1::future_error::~future_error()
+0xd8f10	8	OBJECT	__cxa_unexpected_handler
+0xa91ac	488	FUNC	__dynamic_cast
+0x4291f	4	OBJECT	typeinfo name for long double const*
+0xd94d8	8	OBJECT	gl::glUniform4f
+0xa80b0	44	FUNC	std::__ndk1::bad_weak_ptr::~bad_weak_ptr()
+0xa7938	84	FUNC	std::__ndk1::promise<void>::promise()
+0xa89d0	36	FUNC	__cxa_get_globals_fast
+0xaa93c	24	FUNC	std::bad_cast::bad_cast()
+0x4290d	4	OBJECT	typeinfo name for float const*
+0xd0058	16	OBJECT	typeinfo for char16_t
+0xd9288	8	OBJECT	gl::glGetFloatv
+0xd94e0	8	OBJECT	gl::glVertexAttrib4f
+0x42340	8	OBJECT	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::npos
+0xa6724	32	FUNC	std::__ndk1::condition_variable::~condition_variable()
+0x42928	4	OBJECT	typeinfo name for __float128 const*
+0xd0180	56	OBJECT	vtable for __cxxabiv1::__enum_type_info
+0x63fd4	840	FUNC	gl::SavedState::Restore() const
+0x42895	4	OBJECT	typeinfo name for unsigned char const*
+0xd0008	16	OBJECT	typeinfo for char8_t
+0x8e528	2896	FUNC	probe::Run(void (*)(bool, char const*, ...))
+0xd9260	8	OBJECT	gl::glGetString
+0x5c840	372	FUNC	gl::Link(unsigned int, unsigned int, char const*, void (*)(bool, char const*, ...))
+0x6b09c	32	FUNC	HookOf_FsrDrawElements(unsigned int, int, unsigned int, void const*)
+0x424f8	26	OBJECT	typeinfo name for std::__ndk1::system_error
+0xa8b4c	108	FUNC	std::invalid_argument::~invalid_argument()
+0x428b9	4	OBJECT	typeinfo name for int const*
+0xa06e8	372	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::assign(unsigned long, wchar_t)
+0xa8730	28	FUNC	std::unexpected()
+0x428c2	4	OBJECT	typeinfo name for unsigned int const*
+0x9c4a4	136	FUNC	std::runtime_error::runtime_error(char const*)
+0xa8bf0	108	FUNC	std::overflow_error::~overflow_error()
+0xd9568	8	OBJECT	gl::glDeleteVertexArrays
+0x428cb	4	OBJECT	typeinfo name for long const*
+0x9e764	84	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::operator=(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x9aeb0	188	FUNC	Config::GetString(char const*, char const*, char const*)
+0xa62ec	84	FUNC	std::__ndk1::timed_mutex::~timed_mutex()
+0xcfb38	32	OBJECT	typeinfo for signed char const*
+0x428d4	4	OBJECT	typeinfo name for unsigned long const*
+0xd95d8	8	OBJECT	gl::glClientWaitSync
+0x7d524	2932	FUNC	HookOf_LtUniformMatrix4fv(int, int, unsigned char, float const*)
+0x9d294	124	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find_first_of(char const*, unsigned long, unsigned long) const
+0x9f6b0	184	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::__init(wchar_t const*, unsigned long)
+0xcf9f8	32	OBJECT	typeinfo for bool const*
+0x428ef	4	OBJECT	typeinfo name for __int128 const*
+0xd9618	8	OBJECT	gl::glEndQueryEXT
+0x9cd10	24	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::~basic_string()
+0xa8a24	8	FUNC	std::bad_array_new_length::~bad_array_new_length()
+0xcfa98	32	OBJECT	typeinfo for char const*
+0x428f8	4	OBJECT	typeinfo name for unsigned __int128 const*
+0xd9310	8	OBJECT	gl::glBlendFuncSeparate
+0xcff48	32	OBJECT	typeinfo for double const*
+0xd95f0	8	OBJECT	gl::glMemoryBarrier
+0x9969c	256	FUNC	stbsp_vsnprintf
+0xcf5d0	40	OBJECT	vtable for std::logic_error
+0xcff98	32	OBJECT	typeinfo for long double const*
+0x7d044	92	FUNC	got::FindSlot(char const*, char const*)
+0xcfef8	32	OBJECT	typeinfo for float const*
+0xa800c	44	FUNC	std::nested_exception::~nested_exception()
+0x9f254	44	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, std::__ndk1::allocator<wchar_t> const&)
+0x428a7	4	OBJECT	typeinfo name for short const*
+0xcffe8	32	OBJECT	typeinfo for __float128 const*
+0x57d9c	16	FUNC	__GetModInfo
+0x75e84	2200	FUNC	HookOf_LinkProgram(unsigned int)
+0x9a440	220	FUNC	ConfigEntry::SetString(char const*)
+0x42593	26	OBJECT	typeinfo name for std::__ndk1::future_error
+0xa8aa4	24	FUNC	std::bad_alloc::bad_alloc()
+0xcfae8	32	OBJECT	typeinfo for unsigned char const*
+0x428b0	4	OBJECT	typeinfo name for unsigned short const*
+0xc3150	112	FUNC	operator new(unsigned long)
+0x795d0	168	FUNC	waterbake::Install(void (*)(bool, char const*, ...))
+0x162890	8	OBJECT	ShBindBuffer
+0xcfc28	32	OBJECT	typeinfo for int const*
+0xd9598	8	OBJECT	gl::glColorMask
+0x9f144	44	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&)
+0x42865	4	OBJECT	typeinfo name for void const*
+0xcfc78	32	OBJECT	typeinfo for unsigned int const*
+0xd9348	8	OBJECT	gl::glTexSubImage3D
+0xa5b4c	176	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code)
+0x42883	4	OBJECT	typeinfo name for wchar_t const*
+0xa6044	24	FUNC	std::__ndk1::error_category::error_category()
+0xa2490	356	FUNC	std::__ndk1::stof(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*)
+0xcf230	24	OBJECT	typeinfo for std::__ndk1::system_error
+0xa6340	144	FUNC	std::__ndk1::timed_mutex::lock()
+0xcfcc8	32	OBJECT	typeinfo for long const*
+0x428dd	4	OBJECT	typeinfo name for long long const*
+0xc3334	8	FUNC	operator new[](unsigned long, std::align_val_t)
+0xa8b4c	108	FUNC	std::length_error::~length_error()
+0x90360	508	FUNC	rq::Register(void (*)(char**))
+0xcfd18	32	OBJECT	typeinfo for unsigned long const*
+0x428e6	4	OBJECT	typeinfo name for unsigned long long const*
+0xd94f8	8	OBJECT	gl::glUniform3fv
+0xd9590	8	OBJECT	gl::glIsEnabled
+0xa723c	8	FUNC	std::__ndk1::future_error::~future_error()
+0x4267c	25	OBJECT	typeinfo name for std::bad_array_new_length
+0xcfe08	32	OBJECT	typeinfo for __int128 const*
+0x73c00	1640	FUNC	shaders::Install(void (*)(bool, char const*, ...), char const*, shaders::Settings const&)
+0xd9270	8	OBJECT	gl::glGetIntegerv
+0x162888	8	OBJECT	ShUniformMatrix4fv
+0xa80a8	8	FUNC	std::__ndk1::bad_weak_ptr::~bad_weak_ptr()
+0x9df14	396	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::append(unsigned long, char)
+0x9da00	200	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long, std::__ndk1::allocator<char> const&)
+0xa7938	84	FUNC	std::__ndk1::promise<void>::promise()
+0xa8b3c	16	FUNC	std::bad_array_new_length::what() const
+0xcfe58	32	OBJECT	typeinfo for unsigned __int128 const*
+0xd9278	8	OBJECT	gl::glPixelStorei
+0x898c0	40	FUNC	shadows::MaskTexture()
+0x9c918	332	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::__grow_by_and_replace(unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, char const*)
+0xcf4d8	40	OBJECT	vtable for std::bad_alloc
+0xd93a0	8	OBJECT	gl::glGenerateMipmap
+0x9c564	112	FUNC	std::runtime_error::operator=(std::runtime_error const&)
+0xd9570	8	OBJECT	gl::glDrawArrays
+0x42620	28	OBJECT	typeinfo name for std::__ndk1::__shared_count
+0xd0220	80	OBJECT	vtable for __cxxabiv1::__si_class_type_info
+0xd01d0	80	OBJECT	vtable for __cxxabiv1::__class_type_info
+0xa6100	44	FUNC	std::__ndk1::mutex::lock()
+0x90974	272	FUNC	rq::Post(rq::Event, unsigned int)
+0xa623c	32	FUNC	std::__ndk1::recursive_mutex::~recursive_mutex()
+0xcfb88	32	OBJECT	typeinfo for short const*
+0xa8be4	12	FUNC	std::logic_error::what() const
+0xcfbd8	32	OBJECT	typeinfo for unsigned short const*
+0x9f280	176	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find_last_not_of(wchar_t const*, unsigned long, unsigned long) const
+0x161d28	8	OBJECT	LtUseProgram
+0xa62ec	84	FUNC	std::__ndk1::timed_mutex::~timed_mutex()
+0xcf958	32	OBJECT	typeinfo for void const*
+0xc3260	8	FUNC	operator delete[](void*, unsigned long)
+0xcf358	24	OBJECT	typeinfo for std::__ndk1::future_error
+0xcfa48	32	OBJECT	typeinfo for wchar_t const*
+0xc3b54	48	FUNC	__cxa_uncaught_exception
+0x9cd10	24	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::~basic_string()
+0x78944	28	FUNC	ripples::Texture()
+0x172ae8	8	OBJECT	Config::pLastEntry
+0x9cbac	44	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xcfd68	32	OBJECT	typeinfo for long long const*
+0xd95f8	8	OBJECT	gl::glBindImageTexture
+0xa89ac	36	FUNC	__cxa_get_globals
+0xa874c	20	FUNC	std::get_terminate()
+0xcfdb8	32	OBJECT	typeinfo for unsigned long long const*
+0x42606	26	OBJECT	typeinfo name for std::__ndk1::bad_weak_ptr
+0xa1ea8	212	FUNC	std::__ndk1::stoi(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*, int)
+0x4270a	18	OBJECT	typeinfo name for std::runtime_error
+0xd92a0	8	OBJECT	gl::glBindFramebuffer
+0xa5d08	356	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&, char const*)
+0xd9620	8	OBJECT	gl::glQueryCounterEXT
+0xa7ff4	24	FUNC	std::nested_exception::~nested_exception()
+0x9e22c	148	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::erase(unsigned long, unsigned long)
+0x9ea10	436	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::insert(std::__ndk1::__wrap_iter<char const*>, char)
+0xd0288	80	OBJECT	vtable for __cxxabiv1::__vmi_class_type_info
+0xd8668	8	OBJECT	modinfo
+0x171200	8	OBJECT	TrDrawNon
+0xd0418	24	OBJECT	typeinfo for std::bad_cast
+0xd9468	8	OBJECT	gl::glUniform1i
+0xa80dc	16	FUNC	std::__ndk1::bad_weak_ptr::what() const
+0xa0b5c	156	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::compare(unsigned long, unsigned long, wchar_t const*, unsigned long) const
+0x42838	40	OBJECT	typeinfo name for __cxxabiv1::__fundamental_type_info
+0x77cd8	40	FUNC	wind::SwayLocation()
+0x428ff	4	OBJECT	typeinfo name for half*
+0xd9330	8	OBJECT	gl::glReadPixels
+0x9d7b8	392	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::append(char const*, unsigned long)
+0x82cf8	52	FUNC	HookOf_ShDepthMask(unsigned char)
+0xcf3d0	32	OBJECT	vtable for std::nested_exception
+0x9d654	356	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::reserve(unsigned long)
+0x42947	4	OBJECT	typeinfo name for char32_t*
+0xa5810	248	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa8b4c	108	FUNC	std::length_error::~length_error()
+0x94840	84	FUNC	budget::CpuMs(budget::Cpu, double)
+0xa723c	8	FUNC	std::__ndk1::future_error::~future_error()
+0x966fc	12	FUNC	boot::R(char const*)
+0x99a80	216	FUNC	Logger::Print(eLogPrio, char const*, ...)
+0xa80a8	8	FUNC	std::__ndk1::bad_weak_ptr::~bad_weak_ptr()
+0xa0020	116	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find(wchar_t, unsigned long) const
+0xa217c	392	FUNC	std::__ndk1::stoll(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*, int)
+0xcf648	24	OBJECT	typeinfo for std::logic_error
+0x689a8	624	FUNC	ao::DrawDebug(int, int, unsigned int)
+0x418d0	1	OBJECT	std::__ndk1::piecewise_construct
+0x82770	96	FUNC	HookOf_ShBindBuffer(unsigned int, unsigned int)
+0x9dc24	156	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find_last_of(char const*, unsigned long, unsigned long) const
+0xa2304	396	FUNC	std::__ndk1::stoull(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*, int)
+0x4286c	4	OBJECT	typeinfo name for decltype(nullptr)*
+0x74c6c	1300	FUNC	HookOf_TexMipMode(char**)
+0x81b70	264	FUNC	unsigned long std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::__unordered_map_hasher<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, true>, std::__ndk1::__unordered_map_equal<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::hash<unsigned int>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned int, int> > >::__erase_unique<unsigned int>(unsigned int const&)
+0xa7858	84	FUNC	std::__ndk1::future<void>::~future()
+0xcf560	40	OBJECT	vtable for std::bad_exception
+0xd0270	24	OBJECT	typeinfo for __cxxabiv1::__si_class_type_info
+0xc3384	12	FUNC	operator delete(void*, unsigned long, std::align_val_t)
+0xd8de8	8	OBJECT	logger
+0xd8670	8	OBJECT	cfg
+0x90154	36	FUNC	rq::Ready()
+0x9cc58	184	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find_last_not_of(char const*, unsigned long, unsigned long) const
+0xa8c88	12	FUNC	std::runtime_error::what() const
+0xa7150	96	FUNC	std::__ndk1::future_category()
+0xa623c	32	FUNC	std::__ndk1::recursive_mutex::~recursive_mutex()
+0x8e204	348	FUNC	void std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::__unordered_map_hasher<unsigned int, std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, true>, std::__ndk1::__unordered_map_equal<unsigned int, std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::hash<unsigned int>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned int, unsigned int> > >::__do_rehash<true>(unsigned long)
+0xa7f3c	80	FUNC	std::exception_ptr::operator=(std::exception_ptr const&)
+0xcf428	24	OBJECT	typeinfo for std::__ndk1::bad_weak_ptr
+0xa8bb8	44	FUNC	std::logic_error::~logic_error()
+0xa8d9c	44	FUNC	std::underflow_error::~underflow_error()
+0xd94a8	8	OBJECT	gl::glPolygonOffset
+0x93698	356	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >* std::__ndk1::vector<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >, std::__ndk1::allocator<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > > >::__push_back_slow_path<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > >(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&&)
+0x92ebc	64	FUNC	HookOf_TrDrawNon(char**)
+0x4293b	4	OBJECT	typeinfo name for char16_t*
+0xd95b0	8	OBJECT	gl::glClear
+0xd9638	8	OBJECT	gl::glGetGraphicsResetStatus
+0xa6c74	280	FUNC	std::__ndk1::__thread_struct::notify_all_at_thread_exit(std::__ndk1::condition_variable*, std::__ndk1::mutex*)
+0xcfe88	32	OBJECT	typeinfo for half*
+0xd9528	8	OBJECT	gl::glBindBufferBase
+0xc33dc	80	FUNC	__cxa_allocate_exception
+0x75a44	348	FUNC	void std::__ndk1::__hash_table<unsigned int, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::allocator<unsigned int> >::__do_rehash<true>(unsigned long)
+0x9ee50	368	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::__grow_by_and_replace(unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, wchar_t const*)
+0x9f7b0	292	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::insert(unsigned long, wchar_t const*, unsigned long)
+0xa5f28	44	FUNC	std::__ndk1::system_error::~system_error()
+0xa625c	44	FUNC	std::__ndk1::recursive_mutex::lock()
+0x4292f	4	OBJECT	typeinfo name for char8_t*
+0xd00b8	32	OBJECT	typeinfo for char32_t*
+0x9c3a0	112	FUNC	std::logic_error::operator=(std::logic_error const&)
+0xcf678	40	OBJECT	vtable for std::invalid_argument
+0xc3540	132	FUNC	__cxa_throw
+0x57ee4	256	FUNC	HookOf_RqTargetClear(char**)
+0xd9490	8	OBJECT	gl::glVertexAttribPointer
+0x90808	348	FUNC	rq::Listen(rq::Event, void (*)(unsigned int, unsigned int))
+0x4289b	3	OBJECT	typeinfo name for signed char*
+0x8285c	208	FUNC	HookOf_ShDeleteBuffers(int, unsigned int const*)
+0x90cc4	156	FUNC	HookOf_RqSelect(char**)
+0x9a1c0	132	FUNC	Config::Config(char const*)
+0xa7ff4	24	FUNC	std::nested_exception::~nested_exception()
+0xa4224	440	FUNC	std::__ndk1::to_string(double)
+0xa64dc	84	FUNC	std::__ndk1::recursive_timed_mutex::~recursive_timed_mutex()
+0xa8a58	16	FUNC	std::exception::what() const
+0x429eb	12	OBJECT	typeinfo name for std::bad_cast
+0x42743	33	OBJECT	typeinfo name for __cxxabiv1::__shim_type_info
+0x42877	3	OBJECT	typeinfo name for bool*
+0x9a828	484	FUNC	Config::Bind(char const*, float, char const*)
+0xd9390	8	OBJECT	gl::glTexParameteri
+0x96914	100	FUNC	boot::PostRun(int, int, int)
+0x10bff8	8	OBJECT	TexMipMode
+0x9e424	128	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::compare(unsigned long, unsigned long, char const*, unsigned long) const
+0xa43dc	432	FUNC	std::__ndk1::to_string(long double)
+0xcf988	32	OBJECT	typeinfo for decltype(nullptr)*
+0x42889	3	OBJECT	typeinfo name for char*
+0xd94c0	8	OBJECT	gl::glUniform2i
+0xa7eec	36	FUNC	std::uncaught_exception()
+0xa4068	444	FUNC	std::__ndk1::to_string(float)
+0x42903	5	OBJECT	typeinfo name for half const*
+0x42913	3	OBJECT	typeinfo name for double*
+0xd00f8	56	OBJECT	vtable for __cxxabiv1::__array_type_info
+0x9b99c	44	FUNC	ConfigEntry::GetString(char*, unsigned long)
+0x9b124	440	FUNC	Config::GetFloat(char const*, float, char const*)
+0x429de	13	OBJECT	typeinfo name for std::type_info
+0x4291c	3	OBJECT	typeinfo name for long double*
+0x4294b	5	OBJECT	typeinfo name for char32_t const*
+0xd02d8	24	OBJECT	typeinfo for __cxxabiv1::__vmi_class_type_info
+0xd9360	8	OBJECT	gl::glDeleteTextures
+0x66980	12	FUNC	ao::Strength()
+0x162b90	8	OBJECT	ShDrawElements
+0x9ca64	184	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::rfind(char const*, unsigned long, unsigned long) const
+0x9da00	200	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long, std::__ndk1::allocator<char> const&)
+0x4290a	3	OBJECT	typeinfo name for float*
+0xa28d0	304	FUNC	std::__ndk1::to_string(int)
+0x75ba0	264	FUNC	unsigned long std::__ndk1::__hash_table<unsigned int, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::allocator<unsigned int> >::__erase_unique<unsigned int>(unsigned int const&)
+0x77d0c	12	FUNC	wind::DrawKind()
+0xcf5f8	40	OBJECT	vtable for std::runtime_error
+0xa8978	36	FUNC	std::set_new_handler(void (*)())
+0x42925	3	OBJECT	typeinfo name for __float128*
+0xa2e48	188	FUNC	std::__ndk1::to_string(unsigned int)
+0xa8a2c	44	FUNC	std::exception::~exception()
+0x42892	3	OBJECT	typeinfo name for unsigned char*
+0xd0068	32	OBJECT	typeinfo for char16_t*
+0xa085c	148	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::erase(unsigned long, unsigned long)
+0x428b6	3	OBJECT	typeinfo name for int*
+0xd93b0	8	OBJECT	gl::glBindSampler
+0xd93c0	8	OBJECT	gl::glDeleteSamplers
+0xd9418	8	OBJECT	gl::glLinkProgram
+0xa696c	72	FUNC	std::__ndk1::thread::detach()
+0x8ffc4	356	FUNC	rq::Init(void (*)(bool, char const*, ...))
+0xa2a00	548	FUNC	std::__ndk1::to_string(long)
+0x42870	5	OBJECT	typeinfo name for decltype(nullptr) const*
+0x428bf	3	OBJECT	typeinfo name for unsigned int*
+0xd0018	32	OBJECT	typeinfo for char8_t*
+0xc34fc	60	FUNC	__cxa_allocate_dependent_exception
+0x162870	8	OBJECT	ShUseProgram
+0x8a930	696	FUNC	std::__ndk1::pair<std::__ndk1::__hash_iterator<std::__ndk1::__hash_node<std::__ndk1::__hash_value_type<unsigned long, unsigned int>, void*>*>, bool> std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::__unordered_map_hasher<unsigned long, std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::hash<unsigned long>, std::__ndk1::equal_to<unsigned long>, true>, std::__ndk1::__unordered_map_equal<unsigned long, std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::equal_to<unsigned long>, std::__ndk1::hash<unsigned long>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned long, unsigned int> > >::__emplace_unique_key_args<unsigned long, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned long const&>, std::__ndk1::tuple<> >(unsigned long const&, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned long const&>&&, std::__ndk1::tuple<>&&)
+0x4263c	33	OBJECT	typeinfo name for std::__ndk1::__shared_weak_count
+0xa2f04	452	FUNC	std::__ndk1::to_string(unsigned long)
+0xd0408	16	OBJECT	typeinfo for std::type_info
+0xc3814	228	FUNC	__cxa_rethrow
+0x826e8	136	FUNC	HookOf_ShUniformMatrix4fv(int, int, unsigned char, float const*)
+0xa0ab0	172	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::compare(wchar_t const*) const
+0x428c8	3	OBJECT	typeinfo name for long*
+0xd9420	8	OBJECT	gl::glGetProgramiv
+0x42577	28	OBJECT	typeinfo name for std::__ndk1::error_category
+0xa166c	364	FUNC	std::__ndk1::stoul(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*, int)
+0xa5778	96	FUNC	std::__ndk1::system_category()
+0xa7858	84	FUNC	std::__ndk1::future<void>::~future()
+0x428d1	3	OBJECT	typeinfo name for unsigned long*
+0xc3258	8	FUNC	operator delete[](void*, std::nothrow_t const&)
+0x827d0	140	FUNC	HookOf_ShVertexAttribPointer(unsigned int, int, unsigned int, unsigned char, int, void const*)
+0xa81d8	124	FUNC	std::__ndk1::__shared_weak_count::__release_shared()
+0xa833c	36	FUNC	std::__ndk1::__sp_mut::unlock()
+0x427cc	37	OBJECT	typeinfo name for __cxxabiv1::__function_type_info
+0x428ec	3	OBJECT	typeinfo name for __int128*
+0xd0360	56	OBJECT	vtable for __cxxabiv1::__pointer_to_member_type_info
+0xd9340	8	OBJECT	gl::glScissor
+0xd9510	8	OBJECT	gl::glUniformBlockBinding
+0x691dc	12	FUNC	reproj::Reset()
+0x74460	268	FUNC	xform::InsertBefore(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x162b78	8	OBJECT	ShDepthMask
+0xcf720	24	OBJECT	typeinfo for std::out_of_range
+0x428f5	3	OBJECT	typeinfo name for unsigned __int128*
+0x4293f	5	OBJECT	typeinfo name for char16_t const*
+0xcf6e0	24	OBJECT	typeinfo for std::length_error
+0x9c2e0	136	FUNC	std::logic_error::logic_error(char const*)
+0xa8b4c	108	FUNC	std::logic_error::~logic_error()
+0xa8bf0	108	FUNC	std::underflow_error::~underflow_error()
+0x427a8	36	OBJECT	typeinfo name for __cxxabiv1::__pointer_type_info
+0x6aef8	32	FUNC	HookOf_FsrDrawArrays(unsigned int, int, int)
+0xa7fc8	44	FUNC	std::current_exception()
+0x42933	5	OBJECT	typeinfo name for char8_t const*
+0x8292c	240	FUNC	HookOf_ShBufferData(unsigned int, long, void const*, unsigned int)
+0x999d0	68	FUNC	Logger::Logger()
+0xa1f7c	120	FUNC	std::__ndk1::stol(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*, int)
+0xa74d4	164	FUNC	std::__ndk1::__assoc_sub_state::set_exception_at_thread_exit(std::exception_ptr)
+0x162b50	8	OBJECT	ShBindFramebuffer
+0xa5f20	8	FUNC	std::__ndk1::system_error::~system_error()
+0xa8ae8	16	FUNC	std::bad_alloc::what() const
+0xcf8d8	56	OBJECT	vtable for __cxxabiv1::__fundamental_type_info
+0x428a4	3	OBJECT	typeinfo name for short*
+0xa5f54	48	FUNC	std::__ndk1::__throw_system_error(int, char const*)
+0x171110	8	OBJECT	FrMobileRender
+0xa7734	164	FUNC	std::__ndk1::__assoc_sub_state::wait()
+0x428ad	3	OBJECT	typeinfo name for unsigned short*
+0xd9350	8	OBJECT	gl::glGenTextures
+0xd9610	8	OBJECT	gl::glBeginQueryEXT
+0x92e7c	64	FUNC	HookOf_TrDrawIdx(char**)
+0xa25f4	356	FUNC	std::__ndk1::stod(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*)
+0x6b278	804	FUNC	fsr::Install(void (*)(bool, char const*, ...), fsr::Settings const&)
+0xa7f24	24	FUNC	std::exception_ptr::exception_ptr(std::exception_ptr const&)
+0x9cb1c	144	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::__init(char const*, unsigned long, unsigned long)
+0xa2c24	548	FUNC	std::__ndk1::to_string(long long)
+0x42862	3	OBJECT	typeinfo name for void*
+0xcfb08	16	OBJECT	typeinfo for signed char
+0xcf6b8	40	OBJECT	vtable for std::length_error
+0x9c24c	148	FUNC	std::logic_error::logic_error(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa30c8	452	FUNC	std::__ndk1::to_string(unsigned long long)
+0xa7c60	96	FUNC	std::__ndk1::promise<void>::set_exception(std::exception_ptr)
+0xa64dc	84	FUNC	std::__ndk1::recursive_timed_mutex::~recursive_timed_mutex()
+0xcf9c8	16	OBJECT	typeinfo for bool
+0x42880	3	OBJECT	typeinfo name for wchar_t*
+0x77e48	96	FUNC	wind::Install(void (*)(bool, char const*, ...), float)
+0x10c170	8	OBJECT	g_OrigRender
+0xcfa68	16	OBJECT	typeinfo for char
+0x428da	3	OBJECT	typeinfo name for long long*
+0xd93a8	8	OBJECT	gl::glGenSamplers
+0xd9518	8	OBJECT	gl::glGenBuffers
+0x9cc2c	44	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, std::__ndk1::allocator<char> const&)
+0xa8910	52	FUNC	std::set_unexpected(void (*)())
+0x428e3	3	OBJECT	typeinfo name for unsigned long long*
+0xcff18	16	OBJECT	typeinfo for double
+0x10c080	8	OBJECT	LinkProgram
+0xa7280	140	FUNC	std::__ndk1::__assoc_sub_state::set_value()
+0xcff68	16	OBJECT	typeinfo for long double
+0xcfec8	16	OBJECT	typeinfo for float
+0xd9540	8	OBJECT	gl::glDeleteBuffers
+0x171138	8	OBJECT	SceneBindTexture
+0xcffb8	16	OBJECT	typeinfo for __float128
+0xd92f0	8	OBJECT	gl::glFramebufferRenderbuffer
+0xa7f18	12	FUNC	std::exception_ptr::~exception_ptr()
+0x9e3a4	128	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::compare(char const*) const
+0xa8a24	8	FUNC	std::exception::~exception()
+0xcfab8	16	OBJECT	typeinfo for unsigned char
+0x42950	34	OBJECT	typeinfo name for __cxxabiv1::__array_type_info
+0x6cf40	828	FUNC	grading::Frame(grading::Params&)
+0x947b4	140	FUNC	budget::PostFrame(double const*)
+0x769c8	36	FUNC	timeuni::SetSsr(float)
+0x82b1c	260	FUNC	HookOf_ShMapBufferRange(unsigned int, long, long, unsigned int)
+0x162b80	8	OBJECT	ShBindVertexArray
+0xcfbf8	16	OBJECT	typeinfo for int
+0x5de08	2188	FUNC	lut::Build(png::Image const&, std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >&, int&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&)
+0x9e5e4	208	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find(char const*, unsigned long, unsigned long) const
+0xcfc48	16	OBJECT	typeinfo for unsigned int
+0xd9398	8	OBJECT	gl::glGetTexParameteriv
+0x9c5d4	84	FUNC	std::__ndk1::__throw_runtime_error(char const*)
+0xcfc98	16	OBJECT	typeinfo for long
+0x9e4b8	164	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::compare(unsigned long, unsigned long, char const*) const
+0x1711d8	8	OBJECT	TrClear
+0x9e9c0	80	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::replace(unsigned long, unsigned long, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long)
+0xa76a4	144	FUNC	std::__ndk1::__assoc_sub_state::__sub_wait(std::__ndk1::unique_lock<std::__ndk1::mutex>&)
+0xcfce8	16	OBJECT	typeinfo for unsigned long
+0xd92b8	8	OBJECT	gl::glCheckFramebufferStatus
+0xd93e0	8	OBJECT	gl::glGetShaderiv
+0x162b28	8	OBJECT	ShDeleteBuffers
+0xcf3a0	24	OBJECT	typeinfo for std::__ndk1::__assoc_sub_state
+0xa8a68	44	FUNC	std::bad_exception::~bad_exception()
+0xd0398	40	OBJECT	vtable for std::bad_cast
+0xcfdd8	16	OBJECT	typeinfo for __int128
+0xcfe28	16	OBJECT	typeinfo for unsigned __int128
+0x99e3c	156	FUNC	Logger::InfoV(char const*, std::__va_list)
+0xa5d08	356	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&, char const*)
+0xa8b4c	108	FUNC	std::logic_error::~logic_error()
+0xa8bf0	108	FUNC	std::underflow_error::~underflow_error()
+0xaa9b8	44	FUNC	std::bad_typeid::~bad_typeid()
+0xc31f8	8	FUNC	operator new[](unsigned long)
+0x7896c	12	FUNC	ripples::Strength()
+0xa80fc	8	FUNC	std::__ndk1::__shared_weak_count::~__shared_weak_count()
+0xc3650	12	FUNC	__cxa_get_exception_ptr
+0xd92f8	8	OBJECT	gl::glStencilMask
+0x999d0	68	FUNC	Logger::Logger()
+0xa606c	20	FUNC	std::__ndk1::error_category::default_error_condition(int) const
+0xd94a0	8	OBJECT	gl::glDisableVertexAttribArray
+0xa5f20	8	FUNC	std::__ndk1::system_error::~system_error()
+0x42764	34	OBJECT	typeinfo name for __cxxabiv1::__class_type_info
+0xcfb58	16	OBJECT	typeinfo for short
+0xd9358	8	OBJECT	gl::glBindTexture
+0xa57d8	28	FUNC	std::__ndk1::error_condition::message() const
+0xcf910	24	OBJECT	typeinfo for __cxxabiv1::__fundamental_type_info
+0xcfba8	16	OBJECT	typeinfo for unsigned short
+0xc3390	8	FUNC	operator delete[](void*, std::align_val_t)
+0x78978	284	FUNC	ripples::Install(void (*)(bool, char const*, ...), float)
+0x9c52c	56	FUNC	std::runtime_error::runtime_error(std::runtime_error const&)
+0xa0094	240	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::__init(unsigned long, wchar_t)
+0x9411c	68	FUNC	gputime::Install(void (*)(bool, char const*, ...))
+0xd94e8	8	OBJECT	gl::glBindAttribLocation
+0xa8af8	24	FUNC	std::bad_array_new_length::bad_array_new_length()
+0x4265d	13	OBJECT	typeinfo name for std::exception
+0xcf928	16	OBJECT	typeinfo for void
+0x99d64	216	FUNC	Logger::Info(char const*, ...)
+0x9cbd8	84	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::replace(unsigned long, unsigned long, char const*)
+0xa6c30	68	FUNC	std::__ndk1::__thread_struct::~__thread_struct()
+0x9dcc0	292	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::__grow_by(unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long)
+0xa0e34	200	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::compare(unsigned long, unsigned long, std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long) const
+0xd8f08	8	OBJECT	__cxa_terminate_handler
+0xcfa18	16	OBJECT	typeinfo for wchar_t
+0x66998	4760	FUNC	ao::Render(int, int, unsigned int)
+0x92a24	140	FUNC	HookOf_TrClear(char**)
+0xcfd38	16	OBJECT	typeinfo for long long
+0xd94c8	8	OBJECT	gl::glUniform4i
+0x1628a0	8	OBJECT	ShVertexAttribPointer
+0x9d51c	8	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::assign(char const*, unsigned long)
+0x9ec60	472	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::replace(unsigned long, unsigned long, wchar_t const*, unsigned long)
+0xc3b84	40	FUNC	__cxa_uncaught_exceptions
+0xcf840	24	OBJECT	typeinfo for __cxxabiv1::__pbase_type_info
+0xcfd88	16	OBJECT	typeinfo for unsigned long long
+0xc3200	56	FUNC	operator new[](unsigned long, std::nothrow_t const&)
+0x9f144	44	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&)
+0xd9378	8	OBJECT	gl::glTexImage2D
+0x92efc	660	FUNC	trace::Install(void (*)(bool, char const*, ...))
+0xcf550	16	OBJECT	typeinfo for std::exception
+0xa7f18	12	FUNC	std::exception_ptr::~exception_ptr()
+0xa8a24	8	FUNC	std::exception::~exception()
+0x9f67c	52	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::operator=(wchar_t)
+0xd9508	8	OBJECT	gl::glGetUniformBlockIndex
+0x91724	12	FUNC	scene::SceneFbo()
+0xd9290	8	OBJECT	gl::glGetInternalformativ
+0xd9550	8	OBJECT	gl::glUnmapBuffer
+0xa7cc0	36	FUNC	std::__ndk1::promise<void>::set_value_at_thread_exit()
+0xc3924	140	FUNC	__cxa_current_primary_exception
+0xd9588	8	OBJECT	gl::glDisable
+0x7a95c	12	FUNC	material::Class0()
+0x9fe74	84	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::assign(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long)
+0x425ad	31	OBJECT	typeinfo name for std::__ndk1::__assoc_sub_state
+0x8175c	696	FUNC	std::__ndk1::pair<std::__ndk1::__hash_iterator<std::__ndk1::__hash_node<std::__ndk1::__hash_value_type<unsigned int, int>, void*>*>, bool> std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::__unordered_map_hasher<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, true>, std::__ndk1::__unordered_map_equal<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::hash<unsigned int>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned int, int> > >::__emplace_unique_key_args<unsigned int, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned int const&>, std::__ndk1::tuple<> >(unsigned int const&, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned int const&>&&, std::__ndk1::tuple<>&&)
+0x8abe8	348	FUNC	void std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::__unordered_map_hasher<unsigned long, std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::hash<unsigned long>, std::__ndk1::equal_to<unsigned long>, true>, std::__ndk1::__unordered_map_equal<unsigned long, std::__ndk1::__hash_value_type<unsigned long, unsigned int>, std::__ndk1::equal_to<unsigned long>, std::__ndk1::hash<unsigned long>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned long, unsigned int> > >::__do_rehash<true>(unsigned long)
+0xa7d98	120	FUNC	std::__ndk1::shared_future<void>::operator=(std::__ndk1::shared_future<void> const&)
+0xc38f8	44	FUNC	__cxa_increment_exception_refcount
+0xcf660	24	OBJECT	typeinfo for std::domain_error
+0x5ea54	300	FUNC	void std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >::__assign_with_size[abi:ne180000]<unsigned char const*, unsigned char const*>(unsigned char const*, unsigned char const*, long)
+0x7e0a4	100	FUNC	lights::CameraDiag(char*, int)
+0xa098c	292	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::append(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long)
+0xd93c8	8	OBJECT	gl::glCreateShader
+0xa646c	84	FUNC	std::__ndk1::timed_mutex::unlock()
+0xa8a24	8	FUNC	std::bad_exception::~bad_exception()
+0x95cfc	1208	FUNC	boot::Begin(void (*)(bool, char const*, ...), char const*)
+0xa8d18	44	FUNC	std::out_of_range::~out_of_range()
+0x1711f0	8	OBJECT	TrDrawIdx
+0xa8d44	44	FUNC	std::range_error::~range_error()
+0xaa9b0	8	FUNC	std::bad_typeid::~bad_typeid()
+0xcfb18	32	OBJECT	typeinfo for signed char*
+0x91730	288	FUNC	scene::Install(void (*)(bool, char const*, ...), bool, scene::Hdr const&)
+0x10c178	8	OBJECT	g_OrigObjRender
+0x90f90	196	FUNC	rq::HookCommand(char const*, void (*)(char**), void (**)(char**))
+0xcf790	40	OBJECT	vtable for std::overflow_error
+0xa80ec	8	FUNC	std::__ndk1::__shared_weak_count::~__shared_weak_count()
+0xcf9d8	32	OBJECT	typeinfo for bool*
+0xd9268	8	OBJECT	gl::glGetStringi
+0x91670	28	FUNC	scene::HdrTexture()
+0x91618	88	FUNC	HookOf_SceneBindTexture(unsigned int, unsigned int)
+0xa86d4	64	FUNC	std::terminate()
+0xcfa78	32	OBJECT	typeinfo for char*
+0x8f40c	52	FUNC	compat::Install(void (*)(bool, char const*, ...))
+0xd9400	8	OBJECT	gl::glGetShaderSource
+0x9cbac	44	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa7bc0	160	FUNC	std::__ndk1::promise<void>::set_value()
+0xcf620	40	OBJECT	vtable for std::domain_error
+0xd03e8	32	OBJECT	vtable for std::type_info
+0xcff28	32	OBJECT	typeinfo for double*
+0xd01b8	24	OBJECT	typeinfo for __cxxabiv1::__enum_type_info
+0x90b5c	328	FUNC	rq::PostIfRoom(rq::Event, unsigned int, unsigned int)
+0x96e54	8580	FUNC	stbsp_vsprintfcb
+0xa62d0	28	FUNC	std::__ndk1::timed_mutex::timed_mutex()
+0xcff78	32	OBJECT	typeinfo for long double*
+0xd92e8	8	OBJECT	gl::glGetTexLevelParameteriv
+0xd9300	8	OBJECT	gl::glIsFramebuffer
+0x7a9f4	256	FUNC	material::Install(void (*)(bool, char const*, ...))
+0xa1ab4	328	FUNC	std::__ndk1::stof(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*)
+0xa57f4	28	FUNC	std::__ndk1::error_code::message() const
+0x426a2	17	OBJECT	typeinfo name for std::domain_error
+0xcfed8	32	OBJECT	typeinfo for float*
+0x6c514	572	FUNC	fsr::Rebind(gl::SavedState const&, unsigned int)
+0x7e21c	28	FUNC	lights::Strength()
+0x9f330	24	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::~basic_string()
+0xa8af8	24	FUNC	std::bad_array_new_length::bad_array_new_length()
+0xaa95c	44	FUNC	std::bad_cast::~bad_cast()
+0xcffc8	32	OBJECT	typeinfo for __float128*
+0xa660c	156	FUNC	std::__ndk1::recursive_timed_mutex::try_lock()
+0xa6c30	68	FUNC	std::__ndk1::__thread_struct::~__thread_struct()
+0xcfac8	32	OBJECT	typeinfo for unsigned char*
+0x9c628	728	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::replace(unsigned long, unsigned long, char const*, unsigned long)
+0x769b0	12	FUNC	timeuni::SetWetForce(float)
+0x940ec	48	FUNC	gputime::Drain(double&, int&)
+0xcf6f8	40	OBJECT	vtable for std::out_of_range
+0xa89f4	24	FUNC	__cxa_pure_virtual
+0xa612c	40	FUNC	std::__ndk1::mutex::try_lock()
+0xcfc08	32	OBJECT	typeinfo for int*
+0xd9440	8	OBJECT	gl::glIsProgram
+0x9b87c	24	FUNC	Config::HasSectionComment(char const*)
+0xcf738	40	OBJECT	vtable for std::range_error
+0xcfc58	32	OBJECT	typeinfo for unsigned int*
+0xd95c8	8	OBJECT	gl::glClearBufferfv
+0x81a14	348	FUNC	void std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::__unordered_map_hasher<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, true>, std::__ndk1::__unordered_map_equal<unsigned int, std::__ndk1::__hash_value_type<unsigned int, int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::hash<unsigned int>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned int, int> > >::__do_rehash<true>(unsigned long)
+0x82c20	80	FUNC	HookOf_ShBindFramebuffer(unsigned int, unsigned int)
+0x426e9	17	OBJECT	typeinfo name for std::out_of_range
+0x9f768	72	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::at(unsigned long) const
+0x426d8	17	OBJECT	typeinfo name for std::length_error
+0xcfca8	32	OBJECT	typeinfo for long*
+0xd9480	8	OBJECT	gl::glGetAttribLocation
+0x414a1	8	OBJECT	png::Decode(std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> > const&, png::Image&)::sig
+0x998d8	148	FUNC	stbsp_snprintf
+0xa8090	24	FUNC	std::rethrow_exception(std::exception_ptr)
+0xcfcf8	32	OBJECT	typeinfo for unsigned long*
+0x99ed8	216	FUNC	Logger::Error(char const*, ...)
+0x5a8a4	208	FUNC	gl::HasExtension(char const*)
+0x9c368	56	FUNC	std::logic_error::logic_error(std::logic_error const&)
+0xa0690	88	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::rfind(wchar_t, unsigned long) const
+0xcfde8	32	OBJECT	typeinfo for __int128*
+0xcfe38	32	OBJECT	typeinfo for unsigned __int128*
+0xd9500	8	OBJECT	gl::glUniformMatrix4fv
+0xd9530	8	OBJECT	gl::glBufferData
+0x425f1	21	OBJECT	typeinfo name for std::nested_exception
+0xa149c	24	FUNC	std::__ndk1::__basic_string_common<true>::__throw_length_error() const
+0xa7b98	40	FUNC	std::__ndk1::promise<void>::get_future()
+0xd0430	24	OBJECT	typeinfo for std::bad_typeid
+0x91478	360	FUNC	frame::OnPostBeginGame(void (*)())
+0x967cc	32	FUNC	boot::Menu()
+0x9fd84	240	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::append(wchar_t const*, unsigned long)
+0xd9318	8	OBJECT	gl::glBlendEquationSeparate
+0xa7f10	8	FUNC	std::uncaught_exceptions()
+0xa81b4	36	FUNC	std::__ndk1::__shared_weak_count::__add_weak()
+0xcfb68	32	OBJECT	typeinfo for short*
+0xd93f0	8	OBJECT	gl::glDeleteShader
+0x90128	44	FUNC	rq::Threaded()
+0xa8a24	8	FUNC	std::bad_exception::~bad_exception()
+0xcfbb8	32	OBJECT	typeinfo for unsigned short*
+0x9474c	104	FUNC	budget::GpuMs(budget::Gpu, double)
+0xa8b4c	108	FUNC	std::out_of_range::~out_of_range()
+0xa8abc	44	FUNC	std::bad_alloc::~bad_alloc()
+0x426b3	16	OBJECT	typeinfo name for std::logic_error
+0xcf858	24	OBJECT	typeinfo for __cxxabiv1::__pointer_type_info
+0x1710d8	8	OBJECT	RqSelect
+0xa8bf0	108	FUNC	std::range_error::~range_error()
+0xaa9b0	8	FUNC	std::bad_typeid::~bad_typeid()
+0xcf938	32	OBJECT	typeinfo for void*
+0x66974	12	FUNC	ao::Enabled()
+0xd92c0	8	OBJECT	gl::glDrawBuffers
+0x99a14	40	FUNC	Logger::ToggleOutput(bool)
+0xa830c	12	FUNC	std::__ndk1::__shared_weak_count::__get_deleter(std::type_info const&) const
+0xa80ec	8	FUNC	std::__ndk1::__shared_weak_count::~__shared_weak_count()
+0xa03a4	296	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::push_back(wchar_t)
+0xa6174	200	FUNC	std::__ndk1::recursive_mutex::recursive_mutex()
+0xcfa28	32	OBJECT	typeinfo for wchar_t*
+0x6e200	22316	FUNC	xform::Apply(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&, xform::Options const&)
+0xcf7f8	24	OBJECT	typeinfo for std::underflow_error
+0xcfd48	32	OBJECT	typeinfo for long long*
+0x5d540	2248	FUNC	png::Decode(std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> > const&, png::Image&)
+0xa6064	8	FUNC	std::__ndk1::error_category::~error_category()
+0xa8360	84	FUNC	std::__ndk1::__get_sp_mut(void const*)
+0xcfd98	32	OBJECT	typeinfo for unsigned long long*
+0x905a0	192	FUNC	rq::Enqueue(int, unsigned long)
+0xa01d0	172	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find_last_of(wchar_t const*, unsigned long, unsigned long) const
+0xa62d0	28	FUNC	std::__ndk1::timed_mutex::timed_mutex()
+0x77d18	12	FUNC	wind::DrawId()
+0x9e0f0	316	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::assign(unsigned long, char)
+0x9ec10	80	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::insert(unsigned long, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long)
+0x6c314	52	FUNC	fsr::TaaSharpness()
+0x9f330	24	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::~basic_string()
+0xa77d8	20	FUNC	std::__ndk1::__assoc_sub_state::__execute()
+0xcf500	40	OBJECT	vtable for std::bad_array_new_length
+0xaa954	8	FUNC	std::bad_cast::~bad_cast()
+0x42899	2	OBJECT	typeinfo name for signed char
+0x90178	324	FUNC	rq::Describe(void (*)(bool, char const*, ...))
+0xa55b0	96	FUNC	std::__ndk1::generic_category()
+0xa5bfc	268	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x42875	2	OBJECT	typeinfo name for bool
+0xc4fb8	32	FUNC	__init_cpu_features_resolver
+0xd92c8	8	OBJECT	gl::glBlitFramebuffer
+0x9f8d4	136	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find_first_of(wchar_t const*, unsigned long, unsigned long) const
+0x426c3	21	OBJECT	typeinfo name for std::invalid_argument
+0xcf888	24	OBJECT	typeinfo for __cxxabiv1::__pointer_to_member_type_info
+0x42887	2	OBJECT	typeinfo name for char
+0x42911	2	OBJECT	typeinfo name for double
+0xc32fc	56	FUNC	operator new(unsigned long, std::align_val_t, std::nothrow_t const&)
+0x96714	32	FUNC	boot::Frame()
+0xa7f8c	60	FUNC	std::nested_exception::nested_exception()
+0xa0cc8	72	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::at(unsigned long)
+0x9ff3c	228	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long, std::__ndk1::allocator<wchar_t> const&)
+0xcf8a0	56	OBJECT	vtable for __cxxabiv1::__shim_type_info
+0x4291a	2	OBJECT	typeinfo name for long double
+0xd94b0	8	OBJECT	gl::glClearDepthf
+0xa139c	256	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > std::__ndk1::operator+<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >(char const*, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x7671c	212	FUNC	HookOf_TuUseProgram(unsigned int)
+0x99bf0	216	FUNC	Logger::PrintTag(eLogPrio, char const*, char const*, ...)
+0x42908	2	OBJECT	typeinfo name for float
+0x9b860	28	FUNC	Config::HasKey(char const*, char const*)
+0xa739c	148	FUNC	std::__ndk1::__assoc_sub_state::set_value_at_thread_exit()
+0x42923	2	OBJECT	typeinfo name for __float128
+0xa7578	68	FUNC	std::__ndk1::__assoc_sub_state::__make_ready()
+0x42890	2	OBJECT	typeinfo name for unsigned char
+0xd9408	8	OBJECT	gl::glCreateProgram
+0xcf5b8	24	OBJECT	typeinfo for std::bad_array_new_length
+0x6b0bc	444	FUNC	HookOf_FsrSetAlt(int, int)
+0x428b4	2	OBJECT	typeinfo name for int
+0x10bdc8	8	OBJECT	FsrBindTexture
+0x10c0f0	8	OBJECT	TuDrawElements
+0x92e3c	64	FUNC	HookOf_TrViewport(char**)
+0x428bd	2	OBJECT	typeinfo name for unsigned int
+0x9a1c0	132	FUNC	Config::Config(char const*)
+0xd9548	8	OBJECT	gl::glMapBufferRange
+0x89600	704	FUNC	shadows::DrawDebug()
+0x9c410	148	FUNC	std::runtime_error::runtime_error(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa0d10	8	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::assign(wchar_t const*)
+0xcf290	72	OBJECT	vtable for std::__ndk1::error_category
+0x428c6	2	OBJECT	typeinfo name for long
+0xd9410	8	OBJECT	gl::glAttachShader
+0x7d4bc	104	FUNC	HookOf_LtDrawElements(unsigned int, int, unsigned int, void const*)
+0x9dde4	304	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::push_back(char)
+0xa71b0	140	FUNC	std::__ndk1::future_error::future_error(std::__ndk1::error_code)
+0xa6530	220	FUNC	std::__ndk1::recursive_timed_mutex::lock()
+0x428cf	2	OBJECT	typeinfo name for unsigned long
+0xd9320	8	OBJECT	gl::glSamplerParameterf
+0xd9580	8	OBJECT	gl::glEnable
+0xcf440	40	OBJECT	vtable for std::__ndk1::__shared_count
+0xcf478	56	OBJECT	vtable for std::__ndk1::__shared_weak_count
+0xa2758	376	FUNC	std::__ndk1::stold(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*)
+0xcf778	24	OBJECT	typeinfo for std::range_error
+0x428ea	2	OBJECT	typeinfo name for __int128
+0x7e238	1256	FUNC	lights::Install(void (*)(bool, char const*, ...), lights::Settings const&, bool)
+0xa8254	88	FUNC	std::__ndk1::__shared_weak_count::__release_weak()
+0xc39b0	304	FUNC	__cxa_rethrow_primary_exception
+0xa8a24	8	FUNC	std::bad_alloc::~bad_alloc()
+0xcf528	40	OBJECT	vtable for std::exception
+0xa8b4c	108	FUNC	std::out_of_range::~out_of_range()
+0x428f3	2	OBJECT	typeinfo name for unsigned __int128
+0xa1300	76	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::resize(unsigned long, wchar_t)
+0xa8bf0	108	FUNC	std::range_error::~range_error()
+0x99cc8	156	FUNC	Logger::PrintTagV(eLogPrio, char const*, char const*, std::__va_list)
+0xa6174	200	FUNC	std::__ndk1::recursive_mutex::recursive_mutex()
+0xd9308	8	OBJECT	gl::glGetIntegeri_v
+0x10bdf0	8	OBJECT	FsrDrawArrays
+0x768bc	184	FUNC	timeuni::EnableMaterial()
+0xa605c	8	FUNC	std::__ndk1::error_category::~error_category()
+0x428a2	2	OBJECT	typeinfo name for short
+0x429b8	38	OBJECT	typeinfo name for __cxxabiv1::__vmi_class_type_info
+0xa14b4	24	FUNC	std::__ndk1::__basic_string_common<true>::__throw_out_of_range() const
+0xa5e6c	180	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&)
+0x428ab	2	OBJECT	typeinfo name for unsigned short
+0x5a974	7552	FUNC	gl::Load(gl::Info&, void (*)(bool, char const*, ...))
+0xd9448	8	OBJECT	gl::glProgramBinary
+0x10bf50	8	OBJECT	BuildSource
+0x967ec	296	FUNC	boot::RenderCheck()
+0x9f95c	384	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::replace(unsigned long, unsigned long, unsigned long, wchar_t)
+0xcf208	40	OBJECT	vtable for std::__ndk1::system_error
+0xa798c	312	FUNC	std::__ndk1::promise<void>::~promise()
+0xaa954	8	FUNC	std::bad_cast::~bad_cast()
+0x42860	2	OBJECT	typeinfo name for void
+0x4287e	2	OBJECT	typeinfo name for wchar_t
+0x428d8	2	OBJECT	typeinfo name for long long
+0xd9628	8	OBJECT	gl::glGetQueryObjectuivEXT
+0x9b450	436	FUNC	Config::GetColor(char const*, rgba_t, char const*)
+0x428e1	2	OBJECT	typeinfo name for unsigned long long
+0xa7f8c	60	FUNC	std::nested_exception::nested_exception()
+0x9d990	112	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::copy(char*, unsigned long, unsigned long) const
+0x9f084	168	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::__init(wchar_t const*, unsigned long, unsigned long)
+0xa64c0	28	FUNC	std::__ndk1::recursive_timed_mutex::recursive_timed_mutex()
+0xd9430	8	OBJECT	gl::glUseProgram
+0x171224	4	OBJECT	perf::g_Off
+0x63cbc	792	FUNC	gl::SavedState::Save()
+0xc4bac	484	FUNC	__emutls_get_address
+0x6d28c	3356	FUNC	HookOf_BuildSource(unsigned int, char const**, char const**)
+0x82c70	60	FUNC	HookOf_ShActiveTexture(unsigned int)
+0xa82ac	96	FUNC	std::__ndk1::__shared_weak_count::lock()
+0x57b30	620	FUNC	ModInfo::ModInfo(char const*, char const*, char const*, char const*)
+0xcf3f0	16	OBJECT	typeinfo for std::nested_exception
+0xa8a0c	24	FUNC	__cxa_deleted_virtual
+0xc3ecc	552	FUNC	__gxx_personality_v0
+0xa60c4	28	FUNC	std::__ndk1::error_category::equivalent(std::__ndk1::error_code const&, int) const
+0xa1204	252	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::insert(std::__ndk1::__wrap_iter<wchar_t const*>, wchar_t)
+0xcf330	40	OBJECT	vtable for std::__ndk1::future_error
+0x96bd4	536	FUNC	boot::PrologueOk(void*, char const*, char const*)
+0x96e40	20	FUNC	stbsp_set_separators
+0xa5b4c	176	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code)
+0xc337c	8	FUNC	operator delete(void*, std::align_val_t, std::nothrow_t const&)
+0x75790	692	FUNC	std::__ndk1::pair<std::__ndk1::__hash_iterator<std::__ndk1::__hash_node<unsigned int, void*>*>, bool> std::__ndk1::__hash_table<unsigned int, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::allocator<unsigned int> >::__emplace_unique_key_args<unsigned int, unsigned int const&>(unsigned int const&, unsigned int const&)
+0x42338	8	OBJECT	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::npos
+0x57db8	300	FUNC	GfxLog(bool, char const*, ...)
+0xa8a24	8	FUNC	std::bad_alloc::~bad_alloc()
+0xd95a8	8	OBJECT	gl::glBlendFunc
+0xa1ff4	392	FUNC	std::__ndk1::stoul(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long*, int)
+0xa8a94	16	FUNC	std::bad_exception::what() const
+0x58010	9740	FUNC	OnModLoad
+0x69e74	664	FUNC	rain::Install(void (*)(bool, char const*, ...), rain::Settings const&)
+0xc3248	8	FUNC	operator delete(void*, unsigned long)
+0x162b48	8	OBJECT	ShMapBufferRange
+0x162b68	8	OBJECT	ShBindTexture
+0x9efc0	196	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::rfind(wchar_t const*, unsigned long, unsigned long) const
+0xa6288	32	FUNC	std::__ndk1::recursive_mutex::unlock()
+0x9a120	148	FUNC	Logger::IfV(bool, char const*, std::__va_list)
+0x42993	37	OBJECT	typeinfo name for __cxxabiv1::__si_class_type_info
+0xc3398	8	FUNC	operator delete[](void*, std::align_val_t, std::nothrow_t const&)
+0xc33a0	12	FUNC	operator delete[](void*, unsigned long, std::align_val_t)
+0xd93e8	8	OBJECT	gl::glGetShaderInfoLog
+0xa605c	8	FUNC	std::__ndk1::error_category::~error_category()
+0xa7d44	84	FUNC	std::__ndk1::shared_future<void>::~shared_future()
+0xa8c94	44	FUNC	std::domain_error::~domain_error()
+0xd95c0	8	OBJECT	gl::glGetBooleanv
+0xd95e8	8	OBJECT	gl::glDispatchCompute
+0x6add4	292	FUNC	HookOf_FsrBindTexture(unsigned int, unsigned int)
+0x78104	88	FUNC	wind::InstallTags(void (*)(bool, char const*, ...))
+0xa78ac	140	FUNC	std::__ndk1::future<void>::get()
+0xc3240	8	FUNC	operator delete(void*, std::nothrow_t const&)
+0xd9438	8	OBJECT	gl::glDeleteProgram
+0xd94f0	8	OBJECT	gl::glUniform4fv
+0xa6900	32	FUNC	std::__ndk1::thread::~thread()
+0x171100	8	OBJECT	FrRenderScene
+0x9c4a4	136	FUNC	std::runtime_error::runtime_error(char const*)
+0x912d4	420	FUNC	frame::Install(void (*)(bool, char const*, ...))
+0xd9298	8	OBJECT	gl::glGenFramebuffers
+0x91188	200	FUNC	HookOf_FrMobileRender()
+0x9ff3c	228	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long, std::__ndk1::allocator<wchar_t> const&)
+0xa476c	476	FUNC	std::__ndk1::to_wstring(double)
+0x9f254	44	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::basic_string(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, std::__ndk1::allocator<wchar_t> const&)
+0xa798c	312	FUNC	std::__ndk1::promise<void>::~promise()
+0x4271c	19	OBJECT	typeinfo name for std::overflow_error
+0xa4948	468	FUNC	std::__ndk1::to_wstring(long double)
+0xcf6a0	24	OBJECT	typeinfo for std::invalid_argument
+0x42972	33	OBJECT	typeinfo name for __cxxabiv1::__enum_type_info
+0xd9370	8	OBJECT	gl::glTexStorage2D
+0x8f350	188	FUNC	compat::SceneSize(int&, int&)
+0x691e8	612	FUNC	reproj::Current(float*, float*)
+0xa8038	88	FUNC	std::nested_exception::rethrow_nested() const
+0xa458c	480	FUNC	std::__ndk1::to_wstring(float)
+0xd0148	56	OBJECT	vtable for __cxxabiv1::__function_type_info
+0xd9428	8	OBJECT	gl::glGetProgramInfoLog
+0x995f0	172	FUNC	stbsp_sprintf
+0xd9450	8	OBJECT	gl::glGetProgramBinary
+0x96ad8	252	FUNC	boot::Reached()
+0xa8190	36	FUNC	std::__ndk1::__shared_weak_count::__add_shared()
+0x9db38	160	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::__init(unsigned long, char)
+0x9e55c	68	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::at(unsigned long)
+0xa64c0	28	FUNC	std::__ndk1::recursive_timed_mutex::recursive_timed_mutex()
+0x94894	104	FUNC	budget::Install(void (*)(bool, char const*, ...))
+0x77d00	12	FUNC	wind::InTree()
+0xa328c	480	FUNC	std::__ndk1::to_wstring(int)
+0x9cfbc	160	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::__init(char const*, unsigned long)
+0xa15f4	120	FUNC	std::__ndk1::stol(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*, int)
+0xa3a14	364	FUNC	std::__ndk1::to_wstring(unsigned int)
+0xcfea8	32	OBJECT	typeinfo for half const*
+0x7a968	140	FUNC	material::CountDraw(float)
+0xa66a8	124	FUNC	std::__ndk1::recursive_timed_mutex::unlock()
+0xd00d8	32	OBJECT	typeinfo for char32_t const*
+0x9af6c	440	FUNC	Config::GetInt(char const*, int, char const*)
+0x9fadc	8	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::assign(wchar_t const*, unsigned long)
+0xa346c	724	FUNC	std::__ndk1::to_wstring(long)
+0xa80f4	8	FUNC	std::__ndk1::__shared_count::~__shared_count()
+0xa0bf8	208	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::compare(unsigned long, unsigned long, wchar_t const*) const
+0xa3b80	628	FUNC	std::__ndk1::to_wstring(unsigned long)
+0xd9338	8	OBJECT	gl::glGetUniformfv
+0xd95d0	8	OBJECT	gl::glFenceSync
+0x99b58	152	FUNC	Logger::PrintV(eLogPrio, char const*, std::__va_list)
+0x162b30	8	OBJECT	ShBufferData
+0xa1520	212	FUNC	std::__ndk1::stoi(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*, int)
+0xa6744	32	FUNC	std::__ndk1::condition_variable::notify_one()
+0xa86c0	20	FUNC	std::get_unexpected()
+0xcf828	24	OBJECT	typeinfo for __cxxabiv1::__class_type_info
+0x755fc	404	FUNC	textures::Install(void (*)(bool, char const*, ...), textures::Settings const&)
+0xd9538	8	OBJECT	gl::glBufferSubData
+0xd9600	8	OBJECT	gl::glGenQueriesEXT
+0xcf9a8	32	OBJECT	typeinfo for decltype(nullptr) const*
+0x9a7a0	136	FUNC	ConfigEntry::SetInt(int)
+0xd9520	8	OBJECT	gl::glBindBuffer
+0x9e0a0	80	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::rfind(char, unsigned long) const
+0xa60e0	32	FUNC	std::__ndk1::mutex::~mutex()
+0x9a244	44	FUNC	Config::Init()
+0x9ac7c	120	FUNC	ConfigEntry::SetBool(bool)
+0xcf7d0	40	OBJECT	vtable for std::underflow_error
+0x161d38	8	OBJECT	LtDrawElements
+0x9dac8	112	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find(char, unsigned long) const
+0x99a3c	68	FUNC	Logger::SetTag(char const*)
+0x9fbc0	128	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::reserve(unsigned long)
+0xa8404	304	FUNC	__cxa_guard_acquire
+0xd0088	32	OBJECT	typeinfo for char16_t const*
+0xc4680	544	FUNC	__cxa_call_unexpected
+0xa027c	296	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::__grow_by(unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long)
+0xa7d44	84	FUNC	std::__ndk1::shared_future<void>::~shared_future()
+0xa8b4c	108	FUNC	std::domain_error::~domain_error()
+0x9f200	84	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::replace(unsigned long, unsigned long, wchar_t const*)
+0xa04cc	452	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::append(unsigned long, wchar_t)
+0x173078	8	OBJECT	__cxa_new_handler
+0xa8c5c	44	FUNC	std::runtime_error::~runtime_error()
+0x428fc	3	OBJECT	typeinfo name for half
+0xd0038	32	OBJECT	typeinfo for char8_t const*
+0xd02f0	56	OBJECT	vtable for __cxxabiv1::__pbase_type_info
+0xd9048	8	OBJECT	RqTargetClear
+0x5c9f4	2752	FUNC	post::Install(void (*)(bool, char const*, ...), post::Settings const&)
+0xd95b8	8	OBJECT	gl::glClearColor
+0x5ec48	660	FUNC	std::__ndk1::__wrap_iter<unsigned char*> std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >::__insert_with_size[abi:ne180000]<unsigned char const*, unsigned char const*>(std::__ndk1::__wrap_iter<unsigned char const*>, unsigned char const*, unsigned char const*, long)
+0x171118	8	OBJECT	FrEndOfFrame
+0xa3740	724	FUNC	std::__ndk1::to_wstring(long long)
+0xa6900	32	FUNC	std::__ndk1::thread::~thread()
+0x42944	3	OBJECT	typeinfo name for char32_t
+0x6ccd4	620	FUNC	grading::Install(void (*)(bool, char const*, ...), bool, float)
+0x916a8	112	FUNC	scene::PostDone()
+0xa17d8	364	FUNC	std::__ndk1::stoll(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*, int)
+0xa3df4	628	FUNC	std::__ndk1::to_wstring(unsigned long long)
+0xa0d54	224	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::find(wchar_t const*, unsigned long, unsigned long) const
+0xc3760	92	FUNC	__cxa_decrement_exception_refcount
+0xd9388	8	OBJECT	gl::glTexStorage3D
+0xa8104	36	FUNC	std::__ndk1::__shared_count::__add_shared()
+0xc342c	172	FUNC	__cxa_begin_catch
+0xa1944	368	FUNC	std::__ndk1::stoull(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*, int)
+0xcf870	24	OBJECT	typeinfo for __cxxabiv1::__function_type_info
+0xd9470	8	OBJECT	gl::glUniform1f
+0x9d310	524	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::replace(unsigned long, unsigned long, unsigned long, char)
+0x6c348	460	FUNC	fsr::Sharpen()
+0x96984	340	FUNC	boot::Step(char const*)
+0xa6bf4	60	FUNC	std::__ndk1::__thread_struct::__thread_struct()
+0xa5bfc	268	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa6784	76	FUNC	std::__ndk1::condition_variable::wait(std::__ndk1::unique_lock<std::__ndk1::mutex>&)
+0x42869	3	OBJECT	typeinfo name for decltype(nullptr)
+0xd9488	8	OBJECT	gl::glDrawElements
+0x9e5a0	8	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::assign(char const*)
+0x767f0	204	FUNC	HookOf_TuDrawElements(unsigned int, int, unsigned int, void const*)
+0xa7f24	24	FUNC	std::exception_ptr::exception_ptr(std::exception_ptr const&)
+0xc3238	8	FUNC	operator delete(void*)
+0x9fec8	116	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::copy(wchar_t*, unsigned long, unsigned long) const
+0xa7430	164	FUNC	std::__ndk1::__assoc_sub_state::set_exception(std::exception_ptr)
+0xa6d8c	384	FUNC	std::__ndk1::__thread_struct::__make_ready_at_thread_exit(std::__ndk1::__assoc_sub_state*)
+0x82d2c	52	FUNC	HookOf_ShBindVertexArray(unsigned int)
+0x91250	132	FUNC	HookOf_FrEndOfFrame(bool)
+0x9b604	580	FUNC	ConfigEntry::ParseColor()
+0xa83b4	80	FUNC	std::__ndk1::align(unsigned long, unsigned long, void*&, unsigned long&)
+0xcf468	16	OBJECT	typeinfo for std::__ndk1::__shared_count
+0x9d05c	68	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::at(unsigned long) const
+0xa5810	248	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xaa910	44	FUNC	std::type_info::~type_info()
+0x9a2a8	408	FUNC	Config::Bind(char const*, char const*, char const*)
+0x74350	272	FUNC	xform::ReplaceOnce(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x90d60	560	FUNC	rq::ListenSelect(void (*)(void const*))
+0xa80ec	8	FUNC	std::__ndk1::__shared_count::~__shared_count()
+0x42938	3	OBJECT	typeinfo name for char16_t
+0xd9018	1	OBJECT	amlStub
+0xa5e6c	180	FUNC	std::__ndk1::system_error::system_error(int, std::__ndk1::error_category const&)
+0x4292c	3	OBJECT	typeinfo name for char8_t
+0xcf7b8	24	OBJECT	typeinfo for std::overflow_error
+0x9f3f8	340	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::insert(unsigned long, unsigned long, wchar_t)
+0x83404	1956	FUNC	shadows::Install(void (*)(bool, char const*, ...), shadows::Settings const&)
+0xd9608	8	OBJECT	gl::glDeleteQueriesEXT
+0xa60e0	32	FUNC	std::__ndk1::mutex::~mutex()
+0x4272f	20	OBJECT	typeinfo name for std::underflow_error
+0xa134c	80	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::insert(unsigned long, std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long)
+0xa1bfc	328	FUNC	std::__ndk1::stod(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*)
+0x5d4b4	140	FUNC	_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2B8ne180000ILi0EEEPKc
+0xa59fc	336	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code, char const*)
+0xa59fc	336	FUNC	std::__ndk1::system_error::system_error(std::__ndk1::error_code, char const*)
+0xa69b4	44	FUNC	std::__ndk1::thread::hardware_concurrency()
+0xc37bc	88	FUNC	__cxa_current_exception_type
+0x5e76c	204	FUNC	post::SsrData(float*, float*, unsigned int&, int&, int&, unsigned int&, float*)
+0xc34d8	36	FUNC	__cxa_free_exception
+0xa8b4c	108	FUNC	std::domain_error::~domain_error()
+0xaa998	24	FUNC	std::bad_typeid::bad_typeid()
+0x81ff4	1780	FUNC	HookOf_ShUseProgram(unsigned int)
+0x9b894	28	FUNC	Config::HasKeyComment(char const*, char const*)
+0xa8bf0	108	FUNC	std::runtime_error::~runtime_error()
+0xa7270	16	FUNC	std::__ndk1::__assoc_sub_state::__on_zero_shared()
+0x9aa98	484	FUNC	Config::Bind(char const*, bool, char const*)
+0xd92a8	8	OBJECT	gl::glDeleteFramebuffers
+0x6b7a0	2516	FUNC	fsr::Run(unsigned int, int, int, int, bool, bool)
+0x77d40	264	FUNC	wind::AfterLink()
+0xd92d0	8	OBJECT	gl::glInvalidateFramebuffer
+0xa11b4	80	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::replace(unsigned long, unsigned long, std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&, unsigned long, unsigned long)
+0xa63fc	112	FUNC	std::__ndk1::timed_mutex::try_lock()
+0xcf588	24	OBJECT	typeinfo for std::bad_exception
+0xc3538	8	FUNC	__cxa_free_dependent_exception
+0x5c6f4	332	FUNC	gl::Compile(unsigned int, char const*, char const*, void (*)(bool, char const*, ...))
+0xd9328	8	OBJECT	gl::glTexParameterf
+0xd9498	8	OBJECT	gl::glEnableVertexAttribArray
+0x9168c	28	FUNC	scene::GameColorTexture()
+0x78960	12	FUNC	ripples::PuddleTexture()
+0x90964	16	FUNC	rq::Shutdown()
+0x42786	34	OBJECT	typeinfo name for __cxxabiv1::__pbase_type_info
+0x427f1	46	OBJECT	typeinfo name for __cxxabiv1::__pointer_to_member_type_info
+0xd0130	24	OBJECT	typeinfo for __cxxabiv1::__array_type_info
+0xd9478	8	OBJECT	gl::glUniform2f
+0xd95e0	8	OBJECT	gl::glDeleteSync
+0x162b58	8	OBJECT	ShActiveTexture
+0xa77ec	108	FUNC	std::__ndk1::future<void>::future(std::__ndk1::__assoc_sub_state*)
+0xc3374	8	FUNC	operator delete(void*, std::align_val_t)
+0xd9560	8	OBJECT	gl::glBindVertexArray
+0xa75bc	232	FUNC	std::__ndk1::__assoc_sub_state::copy()
+0xa6bf4	60	FUNC	std::__ndk1::__thread_struct::__thread_struct()
+0xd03c0	40	OBJECT	vtable for std::bad_typeid
+0xaa9e4	16	FUNC	std::bad_typeid::what() const
+0x9996c	100	FUNC	stbsp_vsprintf
+0xa8318	36	FUNC	std::__ndk1::__sp_mut::lock()
+0x9c52c	56	FUNC	std::runtime_error::runtime_error(std::runtime_error const&)
+0x7e098	12	FUNC	lights::Texture()
+0x7522c	976	FUNC	HookOf_TexMip(char**)
+0xa8cc0	44	FUNC	std::invalid_argument::~invalid_argument()
+0x6c750	1412	FUNC	grading::Compute(grading::Inputs const&, float)
+0x82cac	76	FUNC	HookOf_ShBindTexture(unsigned int, unsigned int)
+0x9c24c	148	FUNC	std::logic_error::logic_error(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0x9cdc8	440	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::insert(unsigned long, unsigned long, char)
+0x9e6b4	176	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::compare(unsigned long, unsigned long, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long) const
+0xaa908	8	FUNC	std::type_info::~type_info()
+0x74664	252	FUNC	xform::SsrCode(int)
+0xa0184	76	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::insert(unsigned long, wchar_t const*)
+0xa69e0	128	FUNC	std::__ndk1::this_thread::sleep_for(std::__ndk1::chrono::duration<long long, std::__ndk1::ratio<1l, 1000000000l> > const&)
+0xa8d70	44	FUNC	std::overflow_error::~overflow_error()
+0x5e73c	48	FUNC	post::DrainGpu(double&, int&)
+0xa80ec	8	FUNC	std::__ndk1::__shared_count::~__shared_count()
+0xa10cc	232	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::append(wchar_t const*)
+0xd93d8	8	OBJECT	gl::glCompileShader
+0xd9558	8	OBJECT	gl::glGenVertexArrays
+0x6b6ac	244	FUNC	fsr::Active(int, int)
+0xcf400	40	OBJECT	vtable for std::__ndk1::bad_weak_ptr
+0x9a270	56	FUNC	Config::Save()
+0x664e8	804	FUNC	std::__ndk1::__wrap_iter<unsigned char*> std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >::__insert_with_size[abi:ne180000]<char*, char*>(std::__ndk1::__wrap_iter<unsigned char const*>, char*, char*, long)
+0x76974	60	FUNC	timeuni::SsrWanted()
+0x769ec	712	FUNC	timeuni::Install(void (*)(bool, char const*, ...))
+0x9b9c8	216	FUNC	ConfigEntry::SetColor(rgba_t, bool)
+0x9cd28	160	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::find_first_not_of(char const*, unsigned long, unsigned long) const
+0xc365c	260	FUNC	__cxa_end_catch
+0x42695	13	OBJECT	typeinfo name for std::bad_alloc
+0x57dac	12	FUNC	__GetDepsList
+0x769bc	12	FUNC	timeuni::SetSsrDebug(bool)
+0xa67d0	160	FUNC	std::__ndk1::condition_variable::__do_timed_wait(std::__ndk1::unique_lock<std::__ndk1::mutex>&, std::__ndk1::chrono::time_point<std::__ndk1::chrono::system_clock, std::__ndk1::chrono::duration<long long, std::__ndk1::ratio<1l, 1000000000l> > >)
+0xa8b10	44	FUNC	std::bad_array_new_length::~bad_array_new_length()
+0x7d3cc	240	FUNC	HookOf_LtUseProgram(unsigned int)
+0x96978	12	FUNC	boot::Safe()
+0x82a1c	256	FUNC	HookOf_ShBufferSubData(unsigned int, long, long, void const*)
+0x9b8b0	236	FUNC	Config::GetString(char*, unsigned long, char const*, char const*, char const*)
+0xa6870	144	FUNC	std::__ndk1::notify_all_at_thread_exit(std::__ndk1::condition_variable&, std::__ndk1::unique_lock<std::__ndk1::mutex>)
+0xd9458	8	OBJECT	gl::glProgramParameteri
+0xcf760	24	OBJECT	typeinfo for std::runtime_error
+0x9acf4	444	FUNC	Config::Bind(char const*, rgba_t, char const*)
+0xd9368	8	OBJECT	gl::glActiveTexture
+0x9b2dc	372	FUNC	Config::GetBool(char const*, bool, char const*)
+0xcf5a0	24	OBJECT	typeinfo for std::bad_alloc
+0xd9010	8	OBJECT	aml
+0xd94b8	8	OBJECT	gl::glDepthFunc
+0x69734	1856	FUNC	reproj::Update(reproj::Frame&)
+0x96734	152	FUNC	boot::GameFrame()
+0x9aa0c	140	FUNC	ConfigEntry::SetFloat(float)
+0x4266a	18	OBJECT	typeinfo name for std::bad_exception
+0x426fa	16	OBJECT	typeinfo name for std::range_error
+0xaa998	24	FUNC	std::bad_typeid::bad_typeid()
+0xc51ec	184	FUNC	__init_cpu_features
+0x10c0e0	8	OBJECT	TuUseProgram
+0xa8bf0	108	FUNC	std::runtime_error::~runtime_error()
+0x7a3a8	832	FUNC	waterbake::Texture()
+0x9ebc4	76	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::resize(unsigned long, char)
+0x9cf80	60	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::operator=(char)
+0xc31c0	56	FUNC	operator new(unsigned long, std::nothrow_t const&)
+0xc3268	148	FUNC	operator new(unsigned long, std::align_val_t)
+0x9c2e0	136	FUNC	std::logic_error::logic_error(char const*)
+0xc3250	8	FUNC	operator delete[](void*)
+0x93834	100	FUNC	perf::Install(void (*)(bool, char const*, ...), bool)
+0xc333c	56	FUNC	operator new[](unsigned long, std::align_val_t, std::nothrow_t const&)
+0xd9280	8	OBJECT	gl::glGetError
+0xd9578	8	OBJECT	gl::glViewport
+0x9cc2c	44	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::basic_string(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, std::__ndk1::allocator<char> const&)
+0x66888	236	FUNC	ao::Setup(void (*)(bool, char const*, ...), ao::Settings const&)
+0xd94d0	8	OBJECT	gl::glUniform3f
+0x9e984	60	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::append(char const*)
+0x10be00	8	OBJECT	FsrSetAlt
+0x10c020	8	OBJECT	TexMip
+0x161f88	8	OBJECT	LtUniformMatrix4fv
+0xaa93c	24	FUNC	std::bad_cast::bad_cast()
+0x9dbd8	76	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::insert(unsigned long, char const*)
+0xa6154	32	FUNC	std::__ndk1::mutex::unlock()
+0xa6724	32	FUNC	std::__ndk1::condition_variable::~condition_variable()
+0xa6920	76	FUNC	std::__ndk1::thread::join()
+0xd95a0	8	OBJECT	gl::glDepthMask
+0xa1d44	356	FUNC	std::__ndk1::stold(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long*)
+0xa8b4c	108	FUNC	std::invalid_argument::~invalid_argument()
+0xa8534	168	FUNC	__cxa_guard_release
+0xd93b8	8	OBJECT	gl::glSamplerParameteri
+0x9baa0	1824	FUNC	std::__ndk1::__next_prime(unsigned long)
+0xcf2d8	16	OBJECT	typeinfo for std::__ndk1::error_category
+0xaa908	8	FUNC	std::type_info::~type_info()
+0x9a04c	212	FUNC	Logger::If(bool, char const*, ...)
+0xa8bf0	108	FUNC	std::overflow_error::~overflow_error()
+0x6698c	12	FUNC	ao::Debug()
+0x99fb0	156	FUNC	Logger::ErrorV(char const*, std::__va_list)
+0x9d940	80	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::assign(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long)
+0xa8944	52	FUNC	std::set_terminate(void (*)())
+0xaa9f4	1528	FUNC	__cxa_demangle
+0x91718	12	FUNC	scene::DepthTexture()
+0x10bdf8	8	OBJECT	FsrDrawElements
+0x162b38	8	OBJECT	ShBufferSubData
+0xa7ce4	96	FUNC	std::__ndk1::promise<void>::set_exception_at_thread_exit(std::exception_ptr)
+0x9e354	80	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::append(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, unsigned long, unsigned long)
+0xa6764	32	FUNC	std::__ndk1::condition_variable::notify_all()
+0xcf370	48	OBJECT	vtable for std::__ndk1::__assoc_sub_state
+0xa8a24	8	FUNC	std::bad_array_new_length::~bad_array_new_length()
+0x898e8	56	FUNC	shadows::Strength()
+0xa6a60	148	FUNC	std::__ndk1::__thread_local_data()
+0xcf810	24	OBJECT	typeinfo for __cxxabiv1::__shim_type_info
+0x8df4c	696	FUNC	std::__ndk1::pair<std::__ndk1::__hash_iterator<std::__ndk1::__hash_node<std::__ndk1::__hash_value_type<unsigned int, unsigned int>, void*>*>, bool> std::__ndk1::__hash_table<std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::__unordered_map_hasher<unsigned int, std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::hash<unsigned int>, std::__ndk1::equal_to<unsigned int>, true>, std::__ndk1::__unordered_map_equal<unsigned int, std::__ndk1::__hash_value_type<unsigned int, unsigned int>, std::__ndk1::equal_to<unsigned int>, std::__ndk1::hash<unsigned int>, true>, std::__ndk1::allocator<std::__ndk1::__hash_value_type<unsigned int, unsigned int> > >::__emplace_unique_key_args<unsigned int, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned int const&>, std::__ndk1::tuple<> >(unsigned int const&, std::__ndk1::piecewise_construct_t const&, std::__ndk1::tuple<unsigned int const&>&&, std::__ndk1::tuple<>&&)
+0x82d60	1068	FUNC	HookOf_ShDrawElements(unsigned int, int, unsigned int, void const*)
+0xa8128	104	FUNC	std::__ndk1::__shared_count::__release_shared()
+0x9c368	56	FUNC	std::logic_error::logic_error(std::logic_error const&)
+0xcfe78	16	OBJECT	typeinfo for half
+0x9d0a0	500	FUNC	std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::insert(unsigned long, char const*, unsigned long)
+0x9c410	148	FUNC	std::runtime_error::runtime_error(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&)
+0xa62a8	40	FUNC	std::__ndk1::recursive_mutex::try_lock()
+0xd00a8	16	OBJECT	typeinfo for char32_t
+0xd92b0	8	OBJECT	gl::glFramebufferTexture2D
+0x429f7	15	OBJECT	typeinfo name for std::bad_typeid
+0xd9460	8	OBJECT	gl::glGetUniformLocation
+0xd9630	8	OBJECT	gl::glGetQueryObjectui64vEXT
+0xd93d0	8	OBJECT	gl::glShaderSource
+0xa0efc	88	FUNC	std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> >::operator=(std::__ndk1::basic_string<wchar_t, std::__ndk1::char_traits<wchar_t>, std::__ndk1::allocator<wchar_t> > const&)
+0xa8aa4	24	FUNC	std::bad_alloc::bad_alloc()
